@@ -1,7 +1,6 @@
 package com.egg.spring.service;
 
 import com.egg.spring.entity.Mascota;
-import com.egg.spring.entity.Usuario;
 import com.egg.spring.repository.MascotaRepository;
 import com.egg.spring.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
